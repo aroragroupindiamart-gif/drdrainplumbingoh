@@ -1,55 +1,71 @@
 {
   "intro": [
-    "When you need {kw} in {cityName}, you need a trusted professional who responds fast. Our licensed {nichePluralLower} are ready 24 hours a day, 7 days a week.",
-    "{cityName} residents rely on {brandName} for dependable {kw}. Our certified {nichePluralLower} serve the entire {cityName} area with same-day service available.",
-    "Don't let a {nicheLower} problem disrupt your life. Our {cityName} {kw} specialists have the tools and experience to resolve any issue quickly — the first time.",
-    "For {kw} in {cityName}, our team of licensed, insured {nichePluralLower} brings years of hands-on experience and guaranteed workmanship to every job."
+    "Navigating plumbing problems doesn't have to be overwhelming—{brandName} guides {cityName} homeowners through clear, step-by-step solutions.",
+    "Discover stress-free {kw} in {cityName} with transparent diagnostics, friendly explanations, and zero surprises.",
+    "At {brandName}, we walk you through every stage of your {kw} project, empowering you to make confident decisions for your {cityName} home.",
+    "From initial inspection to final walkthrough, {brandName} provides thoughtful, customer-centered {kw} across {cityName}.",
+    "Restore your peace of mind with our guided approach to {kw}, designed specifically to take the anxiety out of home repairs in {cityName}.",
+    "Transparent choices, clear pricing, and respectful service define the {brandName} journey for every homeowner in {cityName}."
   ],
   "body1": [
-    "Our {cityName} {nichePluralLower} bring years of hands-on experience in {kw}. Every technician is fully licensed, insured, and background-checked. We use professional-grade equipment to ensure lasting results.",
-    "For {kw} in {cityName}, no job is too big or too small. We handle everything from routine maintenance to complex emergency repairs, always delivering the highest standard of workmanship.",
-    "{brandName} has built a reputation in {cityName} by providing honest, transparent {kw} at fair prices. We give upfront quotes with no hidden fees, and our technicians explain every step before they begin work.",
-    "When it comes to {kw} in {cityName}, our crew arrives on time, respects your property, and cleans up completely before leaving. All work is backed by a written guarantee."
+    "We believe informed homeowners make the best choices for their property. When you call us for {kw} in {cityName}, our first step is always a friendly, complete diagnosis.",
+    "Our technicians take the time to physically show you the underlying cause of your plumbing issue, utilizing high-definition monitor displays during pipe inspections.",
+    "Rather than pushing high-pressure sales, we present clear, tiered repair and replacement options so you can select the solution that best fits your family's budget.",
+    "Every step of the process is explained in straightforward language—we ensure you understand the mechanics, expected lifespan, and warranty of each recommendation.",
+    "Our respectful crew treats your living space like their own, laying protective floor mats and wearing clean shoe covers from the moment they cross your threshold.",
+    "We combine compassionate customer care with robust mechanical expertise to make resolving {kw} in {cityName} an easy, reassuring experience."
   ],
   "body2": [
-    "Whether you're dealing with an urgent situation or planning a scheduled {kw} project in {cityName}, we make the process easy. Call us any time, day or night.",
-    "Our {kw} services in {cityName} are backed by a workmanship warranty. We stand behind every job, ensuring you have peace of mind long after our technicians leave.",
-    "When you choose {brandName} for {kw} in {cityName}, you're choosing a team that treats your property like their own. We clean up after every job and minimize disruption.",
-    "{cityName} residents trust us for {kw} because we show up on time, price jobs fairly, and never cut corners. Call {phoneNumber} to schedule service."
+    "Once your selected repair plan is approved, our technicians execute the work efficiently, providing gentle progress updates as key milestones are achieved.",
+    "After completing the work, we conduct a comprehensive final walkthrough with you, testing every valve and answering all maintenance questions.",
+    "You receive a clear, easy-to-read warranty certificate and ongoing maintenance tips to ensure your {cityName} home stays trouble-free.",
+    "Our transparent, written estimates remain fixed from start to finish—no hidden surprises, unexplained fees, or last-minute additions.",
+    "Experience a refreshing, worry-free approach to {kw} in {cityName}—call {phoneNumber} to begin your service journey with {brandName}.",
+    "Join hundreds of satisfied {cityName} neighbors who trust {brandName} for clear answers, honest advice, and lasting plumbing solutions."
   ],
   "trustBulletSets": [
     [
-      "Fully licensed and insured {kw} technicians",
-      "24/7 emergency response — no extra charge for nights or weekends",
-      "Upfront, transparent pricing — no hidden fees",
-      "All work backed by our workmanship guarantee",
-      "Locally trusted in {cityName}"
+      "Guided Step-by-Step Diagnostics",
+      "Tiered Options to Fit Any Budget",
+      "Clear, Plain-Language Explanations",
+      "No High-Pressure Sales Tactics",
+      "Upfront Written Price Guarantees"
     ],
     [
-      "Same-day {kw} service available in {cityName}",
-      "Background-checked technicians — safe for your home and family",
-      "Free estimates on major jobs",
-      "We use only quality, code-compliant materials",
-      "Eco-friendly options available upon request"
+      "Friendly & Courteous Technicians",
+      "Clean Floor Mats & Shoe Covers",
+      "Comprehensive Final Walkthrough",
+      "Preventative Homeowner Education",
+      "Full Workmanship Warranty"
     ],
     [
-      "Rapid response — most jobs dispatched within the hour",
-      "{cityName} residents have trusted us for years",
-      "Expert {kw} diagnosis — right the first time",
-      "Flexible appointment times including evenings and weekends",
-      "Fully equipped for on-the-spot repairs"
+      "Live Video Screen Inspections",
+      "Fixed-Price Diagnostic Quotes",
+      "Respectful Treatment of Your Home",
+      "Dedicated Customer Support",
+      "Decades of Combined Experience"
+    ],
+    [
+      "Transparent Repair Milestones",
+      "Zero Surprise Surcharges",
+      "Post-Service Follow-Up Care",
+      "Flexible Financing Options",
+      "Helpful Phone Consultations at {phoneNumber}"
     ]
   ],
   "faqCostAnswers": [
-    "The cost of {kw0} in {cityName} varies based on the scope of work. We provide free estimates on all major jobs and upfront quotes before any work begins. Call {phoneNumber} for a quote.",
-    "Pricing for {kw0} in {cityName} depends on factors like the severity and access required. We offer competitive, transparent pricing. Call us at {phoneNumber} for an accurate estimate."
+    "We outline all costs clearly before starting any work. During our diagnostic evaluation in {cityName}, we present written options for {kw0} so you choose what fits your budget. Call {phoneNumber} to learn more.",
+    "No hidden fees or unexpected extras. We review the pricing for {kw0} in detail, explaining exactly what each line item entails before you commit. Reach out at {phoneNumber} for friendly guidance.",
+    "Our transparent pricing structure ensures complete clarity for {kw0} in {cityName}. Call us at {phoneNumber} to schedule an informative diagnostic consultation."
   ],
   "faqArrivalAnswers": [
-    "For emergency {kw1} calls in {cityName}, we typically dispatch a technician within 30–60 minutes. For scheduled appointments, we offer same-day and next-day availability.",
-    "Our {cityName} {nichePluralLower} are strategically located for fast response. Emergency calls are typically answered within the hour."
+    "We provide convenient appointment scheduling with narrow arrival windows and send a friendly text with your technician's photo and bio prior to arrival in {cityName}.",
+    "Our team respects your personal time by keeping you updated every step of the way, giving you ample notice before we arrive at your door.",
+    "For urgent situations in {cityName}, our team strives to reach your residence as quickly as possible, walking you through containment steps over the phone."
   ],
   "faqBeforeArrivalAnswers": [
-    "For most service calls, just ensure the technician can access the work area. If there is an active problem, try to isolate it to minimize damage. Our dispatcher can walk you through any emergency steps.",
-    "Clear the work area so our technician has room to work safely. Our dispatcher can walk you through any emergency steps when you call {phoneNumber}."
+    "Simply clear a small perimeter around the fixture or problem area so we can place our protective runner mats and diagnostic tools comfortably.",
+    "Feel free to write down any symptoms or unusual sounds you have noticed, as this helpful information assists us in pinpointing the issue faster.",
+    "Have questions ready! Our technicians love explaining how your plumbing works and will take all the time you need during the visit."
   ]
 }
